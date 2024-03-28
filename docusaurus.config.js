@@ -10,8 +10,8 @@ const {
 const config = {
   title: 'Noodl',
   tagline: 'Dinosaurs are cool',
-  url: 'https://noodlapp.github.io',
-  baseUrl: `/noodl-docs/`,
+  url: 'https://docs.fluxscape.io',
+  baseUrl: `/fluxscape-docs/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

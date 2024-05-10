@@ -17,6 +17,16 @@ Some of these shortcuts might change in future versions.
 
 <div className="ndl-table-35-65">
 
+### Lessons / Tutorials
+
+When doing the editor Lessons there are a few shortcuts. These are designed to be used when building new lessons but can be used when stuck.
+
+| Key                             | Description                                                                                                          |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Shift + CtrlCmd + T             | Restart tutorial.                                                                                                    |
+| Shift + CtrlCmd + R             | Reload lesson (and images). Doesn't restart tutorial.                                                                |
+| Shift + CtrlCmd + N             | Jump to next step even if conditions aren't correct.                                                                 |
+
 ### Editor
 
 | Key                             | Description                                                                                                          |

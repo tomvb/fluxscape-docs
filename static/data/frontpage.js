@@ -12,8 +12,9 @@ export const frontpageData = [
     { type: FrontpageBlocks.SearchBar },
     {
         type: FrontpageBlocks.Hero,
-        title: 'Get started with Noodl',
-        text: "Noodl is a low code web app builder that will have you creating applications faster and smarter. It's a visual development environment that you don't need any previous coding skills to start learning. It's also great for developers who already know how to code as you can easily mix in JavaScript when appropriate, and Noodl is great for designers too, as it gives full control over the look and feel of your App. In Noodl everything is live and you edit you app while its live. This site contains all you need to get started!",
+        title: 'Get Started with Fluxscape',
+        text: "Fluxscape is a powerful low-code web app builder that accelerates your application development process. Designed for both beginners and experienced developers, Fluxscape offers a visual development environment that requires no prior coding skills to get started. However, if you are familiar with coding, you can seamlessly integrate JavaScript as needed. Fluxscape also caters to designers by providing complete control over the aesthetics of your app. In Fluxscape, everything is live—you can edit your app in real-time.",
+        secondText: " As Fluxscape is based on Noodl, you will find many references to Noodl throughout the documentation. This is because Fluxscape is part of what we call the 'Noodlverse'—a community and ecosystem built around the original Noodl platform. This documentation site contains all the resources you need to get started with Fluxscape and leverage the power of the Noodlverse!",
         gridItems: [
             {
                 type: 'youtube',

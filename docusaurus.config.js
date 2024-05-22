@@ -8,15 +8,15 @@ const {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Noodl',
-  tagline: 'Dinosaurs are cool',
+  title: 'Docs @ Fluxscape',
+  tagline: 'Fluxscape Documentation',
   url: 'https://docs.fluxscape.io',
   baseUrl: `/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Noodl', // Usually your GitHub org/user name.
-  projectName: 'Noodl', // Usually your repo name.
+  organizationName: 'Fluxscape', // Usually your GitHub org/user name.
+  projectName: 'Fluxscape', // Usually your repo name.
 
   // This depends on the hosting provider
   // trailingSlash: true,
@@ -140,7 +140,7 @@ const config = {
       },
       {
         property: 'og:title',
-        content: 'Noodl Documentation',
+        content: 'Fluxscape Documentation',
       },
       {
         property: 'og:description',
@@ -159,8 +159,8 @@ const config = {
     navbar: {
       title: 'Docs',
       logo: {
-        alt: 'Noodl Logo',
-        src: 'img/logo.svg',
+        alt: 'Fluxscape Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -186,14 +186,14 @@ const config = {
         },
         {
           label: 'Discord',
-          to: 'https://discord.com/invite/23xU2hYrSJ',
+          to: 'https://discord.gg/fXNW9EXa6A',
           target: '_blank',
           position: 'right',
           className: 'is-discord',
         },
         {
           label: 'Download',
-          to: 'https://github.com/noodlapp/noodl/releases',
+          to: 'https://github.com/fluxscape/fluxscape/releases',
           target: '_blank',
           position: 'right',
           className: 'is-download-button',

@@ -23,12 +23,12 @@ export default function Home() {
                     property="og:image"
                     content="https://docs.noodl.net/noodl-docs.png"
                 />
-                <meta property="og:title" content="Noodl Documentation" />
+                <meta property="og:title" content="Fluxscape Documentation" />
                 <meta
                     property="og:description"
                     content="Explore Noodl guides, tutorials, videos, modules, and reference documentation here. Noodl is the low-code platform for designers + developers to build custom web apps and experiences."
                 />
-                <title>Noodl</title>
+                <title>Fluxscape Docs</title>
             </Head>
 
             <Container>
@@ -48,6 +48,7 @@ export default function Home() {
                                         key={i}
                                         title={item.title}
                                         text={item.text}
+                                        secondText={item.secondText}
                                         gridItems={item.gridItems}
                                         playIcon={item.playIcon}
                                     />

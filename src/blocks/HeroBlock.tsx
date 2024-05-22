@@ -20,10 +20,11 @@ interface IHeroBlockLink extends LinkCardProps {
 interface HeroBlockProps {
     title: string
     text: string
+    secondText: string
     gridItems: (IHeroBlockLink | IHeroBlockYoutube)[]
 }
 
-export function HeroBlock({ title, text, gridItems }: HeroBlockProps) {
+export function HeroBlock({ title, text, secondText, gridItems }: HeroBlockProps) {
     return (
         <Section hasNoHeader>
             <Title size={TitleSize.Large} headingLevel={1}>
@@ -31,6 +32,7 @@ export function HeroBlock({ title, text, gridItems }: HeroBlockProps) {
             </Title>
 
             <Text>{text}</Text>
+            <Text>{secondText}</Text>
 
             <Grid layout={GridLayout.Grid_2_1_1} hasEqualHeightItems>
                 {gridItems.map((item, i) => {

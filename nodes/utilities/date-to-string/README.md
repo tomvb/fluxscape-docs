@@ -34,6 +34,64 @@ The default format is this:
 {year}-{month}-{date}
 ```
 
+### Examples
+
+#### Standard Date Format:
+
+```
+{year}-{month}-{date}
+```
+
+Output: 2024-05-24
+
+#### Full Date and Time:
+
+```
+{year}-{month}-{date} {hours}:{minutes}:{seconds}
+```
+
+Output: 2024-05-24 14:30:15
+
+#### Short Month Name with Date:
+
+```
+{date}-{monthShort}-{year}
+```
+
+Output: 24-May-2024
+
+#### Time Only:
+
+```
+{hours}:{minutes}:{seconds}
+```
+
+Output: 14:30:15
+
+#### Date and Time with Short Month:
+
+```
+{date}/{monthShort}/{year} {hours}:{minutes}
+```
+
+Output: 24/May/2024 14:30
+
+#### Year and Month Only:
+
+```
+{year}/{month}
+```
+
+Output: 2024/05
+
+#### Full Date in Slashes:
+
+```
+{date}/{month}/{year}
+```
+
+Output: 24/05/2024
+
 ## Inputs
 
 <div className="ndl-table-35-65">

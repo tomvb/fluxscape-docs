@@ -21,12 +21,12 @@ export default function Home() {
             <Head>
                 <meta
                     property="og:image"
-                    content="https://docs.noodl.net/noodl-docs.png"
+                    content="https://docs.fluxscape.io/img/fluxscape-docs-banner.jpg"
                 />
                 <meta property="og:title" content="Fluxscape Documentation" />
                 <meta
                     property="og:description"
-                    content="Explore Noodl guides, tutorials, videos, modules, and reference documentation here. Noodl is the low-code platform for designers + developers to build custom web apps and experiences."
+                    content="Explore Flluxscape guides, tutorials, videos, modules, and reference documentation here. Fluxscape is the low-code platform for designers + developers to build custom web apps and experiences."
                 />
                 <title>Fluxscape Docs</title>
             </Head>

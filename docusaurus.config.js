@@ -136,7 +136,7 @@ const config = {
     metadata: [
       {
         property: 'og:image',
-        content: 'https://docs.noodl.net/noodl-docs.png',
+        content: 'https://docs.fluxscape.io/img/fluxscape-docs-banner.jpg',
       },
       {
         property: 'og:title',
@@ -145,7 +145,7 @@ const config = {
       {
         property: 'og:description',
         content:
-          'Explore Noodl guides, tutorials, videos, modules, and reference documentation here. Noodl is the low-code platform for designers + developers to build custom web apps and experiences.',
+          'Explore Fluxscape guides, tutorials, videos, modules, and reference documentation here. Fluxscape is the low-code platform for designers + developers to build custom web apps and experiences.',
       },
       {
         name: 'google-site-verification',

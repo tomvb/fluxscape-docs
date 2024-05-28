@@ -30,6 +30,11 @@ const sidebars = {
       items: [
         {
           type: 'doc',
+          label: 'Quick Setup for 1-Click Deployment',
+          id: 'getting-started/quick-setup',
+        },
+        {
+          type: 'doc',
           label: 'Workflow Overview',
           id: 'getting-started/workflow',
         },

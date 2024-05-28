@@ -1,10 +1,10 @@
-# Noodl docs
+# Fluxscape docs
 
-Welcome to the Noodl docs project! This is a open-source project aimed at providing detailed and up-to-date documentation for users of Noodl. Whether you're a beginner, intermediate, or advanced Noodl user, you will find this documentation invaluable.
+Welcome to the Fluxscape docs project! This is a open-source project aimed at providing detailed and up-to-date documentation for users of Fluxscape. Whether you're a beginner, intermediate, or advanced Fluxscape user, you will find this documentation invaluable.
 
-## About Noodl
+## About Fluxscape
 
-Noodl is the low-code platform where designers and developers build custom applications and experiences. Designed as a visual programming environment, it aims to expedite your development process. It promotes swift and efficient creation of applications, requiring minimal coding knowledge.
+Fluxscape is the low-code platform for designers + developers to build custom web apps and experiences. Fork from Noodl, we aim to bring new life to the Noodl-way. Designed as a visual programming environment, it aims to expedite your development process. It promotes swift and efficient creation of applications, requiring minimal coding knowledge.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ In order to run this project locally, you need to follow the steps below:
 
 ```bash
 # Clone the repository to your local machine using the command below in your terminal or an external git client.
-git clone https://github.com/noodlapp/noodl-docs.git
+git clone https://github.com/fluxscape/fluxscape-docs.git
 
 # Navigate into the project's directory.
 cd repository
@@ -30,13 +30,13 @@ Now, you should be able to view the project in your preferred browser through `l
 
 ## FAQ
 
-##### Can I preview my changes in the Noodl editor?
+##### Can I preview my changes in the Fluxscape editor?
 
-Yes, when the Noodl editor starts up it will check anything running on `localhost:3000` and if it recognize that it is the Noodl docs it will use the local endpoint instead of the live docs.
+Yes, when the Fluxscape editor starts up it will check anything running on `localhost:3000` and if it recognize that it is Fluxscape docs it will use the local endpoint instead of the live docs.
 
 ##### How do we deploy the changes?
 
-Currently people at Noodl will deploy the changes manually, until we have an automatic system in place.
+Currently people at Fluxscape will deploy the changes manually, until we have an automatic system in place.
 
 ## Contributing
 
@@ -50,4 +50,4 @@ This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions, concerns, or feedback, please open a discussion in the [discussions tracker](https://github.com/noodlapp/noodl-docs/discussions) or join our Discord channel and we'll be happy to assist you!
+If you have any questions, concerns, or feedback, please open a discussion in the [discussions tracker](https://github.com/fluxscape/fluxscape-docs/discussions) or join our Discord channel and we'll be happy to assist you!

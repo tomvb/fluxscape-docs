@@ -8,7 +8,7 @@ const {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docs @ Fluxscape',
+  title: 'Fluxscape Docs',
   tagline: 'Fluxscape Documentation',
   url: 'https://docs.fluxscape.io',
   baseUrl: `/`,

@@ -161,7 +161,7 @@ Let's create a new page called ***Home*** and then go back to our Sign Up Page c
 
 </div>
 
-If we try to sign up a new user now, we can see that it navigates ot the Home page.
+If we try to sign up a new user now, we can see that it navigates to the Home page.
 
 Let's now make a login page, so that existing users have a way to log in.
 

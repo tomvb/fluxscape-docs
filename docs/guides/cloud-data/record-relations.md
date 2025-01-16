@@ -30,7 +30,7 @@ The most simple relationship is a **Pointer**. This type of relationship is ofte
 
 A **Pointer** property can reference another **Record** of a certain Class via it's _Id_. In this case we want to reference the _Post_ that is the owner of a _Comment_. So in the _Comment_ class we create a property, let's call it `Owner`, and give it a _Pointer_ type and specify that it should point to _Post_ records.
 
-?> This is called a _backward_ relationship, i.e. the _Comment_ points back to the _Post_. If you want to find all _Comments_ for _Post_ you will simply look for all _Comments_ pointing back to the _Post_ you are interested in.
+This is called a _backward_ relationship, i.e. the _Comment_ points back to the _Post_. If you want to find all _Comments_ for _Post_ you will simply look for all _Comments_ pointing back to the _Post_ you are interested in.
 
 <div className="ndl-image-with-background">
 
